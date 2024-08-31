@@ -2,8 +2,7 @@
 - 👀 I’m interested in Digital MArketing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me teamakgroups@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 AmanKhalkho/AmanKhalkho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
